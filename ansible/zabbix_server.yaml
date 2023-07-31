@@ -1,5 +1,0 @@
----
-- hosts: all
-  roles:
-    - ../../ansible/roles/timezone
-    - ../../ansible/roles/zabbix_server
